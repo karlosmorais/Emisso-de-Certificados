@@ -1,0 +1,12 @@
+{
+  "email_from": "SEU_EMAIL_GMAIL@gmail.com",
+  "token": "SEU TOKEN GERADO NO GMAIL",
+  "intervalo_envio_email": 30,
+  "imagem_arte_base": "arte_base.png",
+  "fonte": "arial.ttf",
+  "tamanho_fonte": 70,
+  "cor_texto": "black",
+  "altura_posicao_texto": 650,
+  "caminho_arquivo": "lista.xlsx",
+  "assunto": "Certificados"
+}
